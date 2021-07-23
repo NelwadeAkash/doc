@@ -1,0 +1,32 @@
+SVN:
+User Name - akash.nelwade@marlabs.com
+Password - E3E6g!Fn8y
+
+------------------------------------------------------------
+VPN:
+Hostname:vpn.paxiasolutions.com
+Username: akashn
+Password: P@X1a#$81P!
+-------------------------
+tail -f /opt/jb1/jboss-5.1.0.GA/server/gp/log/server.log
+ http://svnindia.marlabs.com/svn/GP4 
+https://egatesolutions.unfuddle.com/svn/egatesolutions_gp-svn/gp/trunk/scripts 
+----------------------------------------------------------
+add in grid, delete,edit/update --success pop and add in the grid
+same date,past date
+add with same name
+date formate
+Select all max 100 will select
+find verify button is enabled/disabled/present in grid
+auto generate image
+ type container (ice)
+--------------------------------------------
+Jmeter -n -t C:/Users/Akash.Nelwade/Jmeter/apache-jmeter-5.2.1/apache-jmeter-5.2.1/bin/results/Gallypage.jmx -l 
+C:/Users/Akash.Nelwade/Jmeter/apache-jmeter-5.2.1/apache-jmeter-5.2.1/bin/Summary/summary.csv -e -o 
+C:/Users/Akash.Nelwade/Jmeter/apache-jmeter-5.2.1/apache-jmeter-5.2.1/bin/JmResult/Latest
+---------------------------------------------------------------------
+username: gpqaadmin
+password: qagp9gp9
+
+gpqaadmin/sasgp9gp9
+aircarft layout /stowage/
